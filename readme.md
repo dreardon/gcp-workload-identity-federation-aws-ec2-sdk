@@ -9,7 +9,7 @@ This is not an officially supported Google product
 1. [Prerequisites](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#prerequisites)
 1. [Google Service Account and Identity Pool](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#create-a-google-service-account-and-identity-pool)
 1. [AWS IAM Role Creation](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#aws-role-creation)
-1. [Create Client Configuration File](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#create-client-config-file)
+1. [Create Client Configuration File](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#create-client-configuration-file)
 1. [Connect Identity Pool to AWS](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#connect-identity-pool-to-aws-create-provider)
 1. [Validate Workload Identity Federation Setup](https://github.com/dreardon/gcp-workload-identity-federation-aws-ec2-sdk#validate-workload-identity-federation-pool-setup)
 
